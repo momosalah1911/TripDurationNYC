@@ -1,5 +1,5 @@
 # TripDurationNYC
-![NYC Taxi](https://www.cartalk.com/sites/default/files/blogs/jamie-kitman/wp-content/uploads/crown-vic-2.jpg)
+![NYC Taxi](https://static01.nyt.com/images/2007/10/18/nyregion/taxi600.jpg?quality=75&auto=webp)
 ## Abstraction
 Building a model that predicts the total duration of taxi trips in New York City. We are working on a dataset released by the New York City Taxi and Limousine Commission, which includes pickup time, geographic coordinates, number of passengers, and many other variables, and we will talk about the details during the report.
 ## conclusion 
