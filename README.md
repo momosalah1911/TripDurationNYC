@@ -3,9 +3,11 @@
 ## Abstraction
 Building a model that predicts the total duration of taxi trips in New York City. We are working on a dataset released by the New York City Taxi and Limousine Commission, which includes pickup time, geographic coordinates, number of passengers, and many other variables, and we will talk about the details during the report.
 ## conclusion 
-*dataset does not contain missing values
+*dataset does not contain missing values.
+
 *fixing structure error
  - We modified pickup_datetime , dropoff_datetime from object to datetime so that we can perform some operations on it.
+   
 *Handle outlets
    - After reviewing the statistical summary of the data set, we noticed that there are some values that are not possible for some columns, for example :
          -trip_duration We found that some trips lasted for more than 22 hours, which raises doubts as it is an impossible value.
