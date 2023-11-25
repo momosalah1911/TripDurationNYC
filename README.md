@@ -42,9 +42,10 @@ Building a model that predicts the total duration of taxi trips in New York City
 *store_and_fwd_flag:
   -	90 %  of the trip not a store and forward trip.
 ### used external dataset (The Open-Source Routing Machine (OSRM) dataset)
-*	There are many columns that can help him predict like total_distance , total_travel_time , number_of_steps 
 
-*	 You can also verify this by merging with the main dataset by column ID.
+*There are many columns that can help him predict like total_distance , total_travel_time , number_of_steps 
+
+*You can also verify this by merging with the main dataset by column ID.
 
 *Total distance :
   -	total_distance has negative skew
