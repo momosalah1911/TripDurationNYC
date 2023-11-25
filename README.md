@@ -58,9 +58,11 @@ Building a model that predicts the total duration of taxi trips in New York City
   -	most number_of_steps is between 1.5 and 2.5 steps.
 
 ### used external dataset (Weather data in New York City - 2016)
-*The dip in trip volume is attributed to a blizzard that hit NYC, causing record-breaking snowfall and significantly impacting traffic patterns.
-*Subsequent periods of snowfall, even if less intense, do not have as substantial an effect on the number of taxi trips or their velocities.
-*This could indicate that passengers were more likely to travel shorter distances on snowy days.
++The dip in trip volume is attributed to a blizzard that hit NYC, causing record-breaking snowfall and significantly impacting traffic patterns.
+
++Subsequent periods of snowfall, even if less intense, do not have as substantial an effect on the number of taxi trips or their velocities.
+
++This could indicate that passengers were more likely to travel shorter distances on snowy days.
 
 ## modeling Result
 
