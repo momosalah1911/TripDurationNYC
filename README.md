@@ -43,17 +43,17 @@ Building a model that predicts the total duration of taxi trips in New York City
   -	90 %  of the trip not a store and forward trip.
 ### used external dataset (The Open-Source Routing Machine (OSRM) dataset)
 
-*There are many columns that can help him predict like total_distance , total_travel_time , number_of_steps 
++There are many columns that can help him predict like total_distance , total_travel_time , number_of_steps 
 
-*You can also verify this by merging with the main dataset by column ID.
++You can also verify this by merging with the main dataset by column ID.
 
-*Total distance :
++Total distance :
   -	total_distance has negative skew
   -	most distance is between 0 and 5000 metre
-*total travel time:
++total travel time:
   -	total travel time has negative skew.
   -	most total travel time is between 0 and 16 minutes.
-*number_of_steps:
++number_of_steps:
   -	number_of_steps have negative skew.
   -	most number_of_steps is between 1.5 and 2.5 steps.
 
